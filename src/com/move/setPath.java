@@ -93,7 +93,7 @@ public class setPath extends JFrame {
         add(binariesPathButton, gridBagConstraints);
 				
 		jLabel3.setFont(new Font("Dialog", 0, 12));
-		jLabel3.setText("Example: C:\\sumo-0.12.0\\bin");
+		jLabel3.setText("Example: C:\\sumo-0.12.3\\bin\\");
 		gridBagConstraints = new GridBagConstraints();
 		gridBagConstraints.gridx = 0;
 		gridBagConstraints.gridy = 2;

@@ -33,7 +33,7 @@ public class vanetsim extends JFrame {
 		jLabel3 = new JLabel();
 
 		getContentPane().setLayout(new GridBagLayout());
-		setTitle("Rapid Generator for VANET Simulation (v 2.93)");
+		setTitle("Rapid Generator for VANET Simulation (v 2.94)");
 		setDefaultCloseOperation(WindowConstants.EXIT_ON_CLOSE);
 		jLabel1.setFont(new Font("Arial", 1, 20));
 		jLabel1.setForeground(new Color(0, 51, 255));
