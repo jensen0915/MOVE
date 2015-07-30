@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="jar/geoapi-nogenerics-2.1.0.jar"/>
+	<classpathentry kind="lib" path="jar/gt2-epsg-hsql-2.4.5.jar"/>
+	<classpathentry kind="lib" path="jar/gt2-metadata-2.4.5.jar"/>
+	<classpathentry kind="lib" path="jar/gt2-referencing-2.4.5.jar"/>
+	<classpathentry kind="lib" path="jar/isorelax.jar"/>
+	<classpathentry kind="lib" path="jar/jakarta-regexp-1.1.jar"/>
+	<classpathentry kind="lib" path="jar/jaxen-core.jar"/>
+	<classpathentry kind="lib" path="jar/jaxen-jdom.jar"/>
+	<classpathentry kind="lib" path="jar/jdom_contrib.jar"/>
+	<classpathentry kind="lib" path="jar/jdom.jar"/>
+	<classpathentry kind="lib" path="jar/swing-layout-1.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
